@@ -1,0 +1,11 @@
+﻿Staging_ID,Email_key,EmailID,FirstName,LastName,TownID,Town,List_Year,Residential_Type,Non_Use_Code,LocationID,Location,Assessed_Value,Property_Type,Assessor_Remarks,OPM_Remarks,FactID,Serial_Number,Date_Recorded,Sale_Amount,Sales_Ratio,BuyerID,ContactInfo,Address
+1,,priya@gmail.com,priya,chintada,,Ansonia,2020,Single Family,,,POINT (-73.06822 41.35014),133000,Residential,,,,2020177,4/14/2021,248400,0.5354,1234,2000,323 BEAVER ST
+2,,raj@gmail.com,reddy,raj,,Ansonia,2020,Three Family,,,,110500,Residential,,,,2020225,5/26/2021,239900,0.4606,5678,3000,152 JACKSON ST
+3,,yesw@gmail.com,yesw,kan,,Ansonia,2020,,,,,150500,Commercial,,,,2020348,9/13/2021,325000,0.463,8974,4000,230 WAKELEE AVE
+4,,pooja@gmail.com,pooja,acha,,Ansonia,2020,Two Family,,,,127400,Residential,,,,2020090,12/14/2020,202500,0.6291,6789,5000,57 PLATT ST
+5,,lav@gmail.com,lav,gor,,Avon,2020,Single Family,,,,217640,Residential,,,,200500,9/7/2021,400000,0.5441,8901,6000,245 NEW ROAD
+6,,ram@gmail.com,ram,sri,,Avon,2020,Single Family,,,POINT (-72.89675 41.79445),528490,Residential,,,,200121,12/15/2020,775000,0.6819,1897,7000,63 NORTHGATE
+7,,sri@gmail.com,sri,mal,,Barkhamsted,2020,Single Family,,,,203530,Residential,"2003 COLONIAL, 2140 SFLA, 2.99 AC",,,20058,6/1/2021,415000,0.490433735,2897,8000,46 RATLUM MTN RD
+8,,sah@gmail.com,sah,kup,,Beacon Falls,2020,Single Family,,,,158030,Residential,,,,200046,1/25/2021,243000,0.6503,4286,9000,34 LASKY ROAD
+9,,jeev@gmail.com,jeev,are,,Beacon Falls,2020,Condo,,,,65590,Residential,,,,200016,11/13/2020,100000,0.6559,3798,1000,9 AVON COURT
+10,,nar@gmail.com,nar,rav,,Berlin,2020,Single Family,,,,140600,Residential,,,,2020360,8/10/2021,190790,0.7369,2543,6900,94 PERCIVAL AVE
